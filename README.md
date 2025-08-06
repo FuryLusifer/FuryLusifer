@@ -62,6 +62,11 @@ I’m happy to talk code, AI, automation, human behavior prediction, or just cri
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryLusifer&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FuryLusifer&theme=tokyonight&hide_border=true" alt="FuryLusifer's GitHub streak" />
+</p>
 
 ---
 
