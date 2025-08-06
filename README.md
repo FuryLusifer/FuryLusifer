@@ -62,6 +62,7 @@ I’m happy to talk code, AI, automation, human behavior prediction, or just cri
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryLusifer&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </p>
+
 ---
 
 ## ⚡ Tech Toolbox
