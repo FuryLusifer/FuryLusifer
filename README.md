@@ -58,7 +58,7 @@ I’m happy to talk code, AI, automation, human behavior prediction, or just cri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FuryLusifer&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="GitHub stats"/>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FuryLusifer&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=FuryLusifer&theme=tokyonight&hide_border=true" alt="FuryLusifer's GitHub streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuryLusifer&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </p>
