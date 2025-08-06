@@ -65,6 +65,11 @@ I’m happy to talk code, AI, automation, human behavior prediction, or just cri
 <br />
 <img src="https://streak-stats.demolab.com/?user=FuryLusifer&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 <br />
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FuryLusifer&theme=tokyonight&hide_border=true" alt="FuryLusifer's GitHub streak" />
+</p>
 
 ---
 
